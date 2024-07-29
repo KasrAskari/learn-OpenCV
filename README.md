@@ -1,1 +1,1 @@
-# Image processing and Computer vision with OpenCV
+# Image processing and Vision with OpenCV
