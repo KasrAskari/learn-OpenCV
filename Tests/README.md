@@ -1,0 +1,1 @@
+## Little Projects with OpenCV
