@@ -12,16 +12,16 @@ This project is designed to help you learn **image processing** and **computer v
 ```
 learn-OpenCV/  
 │  
-├── 01-Basics                   # Basic image processing  
-├── 02-User Interface & Video   # GUI and video handling  
-├── 03-Binary Image Processing   # Techniques for binary images  
-├── 04-Image Enhancement        # Filtering and enhancement techniques  
-├── 05-Advanced Image Processing # Advanced techniques  
-├── 06-Transformations & Features # Geometric transformations  
-├── 07-Segmentation & Recognition # Image segmentation  
-├── 08-Video Analysis            # Analyzing video data  
-├── 09-Deep Learning with OpenCV  # Deep learning techniques with OpenCV  
-└── README.md                   # Documentation  
+├── 01-Basics                       # Basic image processing  
+├── 02-User Interface & Video       # GUI and video handling  
+├── 03-Binary Image Processing      # Techniques for binary images  
+├── 04-Image Enhancement            # Filtering and enhancement techniques  
+├── 05-Advanced Image Processing    # Advanced techniques  
+├── 06-Transformations & Features   # Geometric transformations  
+├── 07-Segmentation & Recognition   # Image segmentation  
+├── 08-Video Analysis               # Analyzing video data  
+├── 09-Deep Learning with OpenCV    # Deep learning techniques with OpenCV  
+└── README.md                       # Documentation  
 ```  
 
 ## Technologies Used  
